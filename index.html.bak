@@ -44,7 +44,7 @@
 							<a href="images/hybrid.jpg" class="image"><img src="images/hybrid2.jpg" alt="" data-position="center center" /></a><!--이미지 지정 -->
 							<div class="content">
 								<div class="inner">
-									<h2>Hybrid App(Phonegap)</h2>
+									<h2>Hybrid App(Cordova)</h2>
 									<p>인천전자마이스터고등학교 졸업프로잭트 하이브리드앱</p>
 									<ul class="actions">
 										<li><a href="program/hybrid.zip" class="button">Source viewer</a></li>
@@ -115,9 +115,9 @@
 									<p>간단한 서버구축 가능<br>다양한 리눅스 경험해서 어떤 리눅스도 어려움 없이 사용 가능 </br></p>
 								</section>
 							</div>
-<!-- 							<ul class="actions"> -->
-<!-- 								<li><a href="program/1.html" class="button">우리집 동물 소개(동영상)</a></li> -->
-<!-- 							</ul> -->
+							<ul class="actions">
+								<li><a href="program/1.html" class="button">우리집 동물 소개(동영상)</a></li>
+							</ul>
 						</div>
 					</section>
 
@@ -146,14 +146,14 @@
 										</li>
 										<li>
 											<h3>Phone</h3>
-											<span>(082) 010-8139-0084</span>
+											<span>(082) 010-0000-0000</span>
 										</li>
 										<li>
 											<h3>Social</h3>
 											<ul class="icons">
 												<li><a href="http://saranf.tistory.com" class="fa-heart"><span class="label">Tistory</span></a></li>
 												<li><a href="https://www.facebook.com/profile.php?id=100003126284914" class="fa-facebook"><span class="label">Facebook</span></a></li>
-												<li><a href="https://github.com/saranf"  class="fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="#"  class="fa-github"><span class="label">GitHub</span></a></li>
 												<li><a href="http://blog.naver.com/qorwlsdk1995" class="fa-star"><span class="label">NaverBlog</span></a></li>
 											</ul>
 										</li>
